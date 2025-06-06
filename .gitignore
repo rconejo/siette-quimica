@@ -3,6 +3,8 @@ target/maven-status/
 target/surefire-reports/
 target/test-classes/
 target/classes/
+target/generated-test-sources/
+target/generated-sources/
 .gitignore
 .svn/
 .settings/
