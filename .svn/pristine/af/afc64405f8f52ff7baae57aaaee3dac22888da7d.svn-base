@@ -1,0 +1,5 @@
+package siette.quimica;
+
+public class FormulaException extends Exception {
+
+}

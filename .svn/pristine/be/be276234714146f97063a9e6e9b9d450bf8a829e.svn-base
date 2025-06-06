@@ -1,0 +1,5 @@
+package siette.util;
+
+public class RandomException extends Exception {
+
+}
