@@ -1,3 +1,5 @@
+db/
+doc/
 target/maven-archiver/
 target/maven-status/
 target/surefire-reports/
